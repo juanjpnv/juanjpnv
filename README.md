@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mechanical Engineering and Artificial Inteligence
 - 🌱 I’m currently learning Smart Surveillance
 - 💞️ I’m looking to collaborate on ways to use A.I. in machanical projects.
-- 📫 How to reach me here in Github
+- 📫 You can reach me here in Github
 
 <!---
 juanjpnv/juanjpnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
