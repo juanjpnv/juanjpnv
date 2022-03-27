@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @juanjpnv
 - 👀 I’m interested in Mechanical Engineering and Artificial Inteligence
-- 🌱 I’m currently working in Smart Surveillance
+- 👨‍🔬 Researcher at [DARTi Lab](http://www.darti.ufma.br/)
+- 🎓 Working on Smart Surveillance
 - 💞️ I’m looking to collaborate on ways to use A.I. in machanical projects.
 - 📫 You can reach me here in Github
 
